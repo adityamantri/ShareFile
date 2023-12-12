@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+ShareFile/client/node_modules
+ShareFile/client/package-lock.json
+ShareFile/server/node_modules
+ShareFile/server/package-lock.json
+ShareFile/server/.env
